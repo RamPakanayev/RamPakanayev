@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ram Pakanayev</h1>
+<h1 align="center">Hi 
+  ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+  , I'm Ram Pakanayev</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
 - 📫 How to reach me **rampakanayev@gmail.com**

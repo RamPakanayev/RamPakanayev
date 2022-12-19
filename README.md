@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently 3nd year Computer Science student.
 
-- 💪 A passionate fullstack developerr.
+- 💪 A passionate fullstack developer.
 
 - 📫 How to reach me **rampakanayev@gmail.com**
 

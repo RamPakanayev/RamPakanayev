@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently 3nd year Computer Science student.
+- 🎓 I’m currently a 3rd Computer Science (B.Sc) student,.
 
 - 💪 A passionate fullstack developer.
 

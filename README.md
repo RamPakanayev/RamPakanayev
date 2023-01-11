@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/ram-pakanayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ram-pakanayev/" height="30" width="40" /></a>
 </p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=rampakanayev&layout=compact&theme=dracula" width="500" />
- 
+<!-- <img src="https://github-readme-stats.vercel.app/api/?username=rampakanayev&layout=compact&theme=dracula" PAT_1="rampakanayev" width="500" />
+ !-->
 
 </div>

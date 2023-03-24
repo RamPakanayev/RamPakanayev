@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQE-_U2g3mghRg/profile-displaybackgroundimage-shrink_350_1400/0/1671461234688?e=1679529600&v=beta&t=uh9GKYtMp0y-5V_GZb3ZdsjwvXAddVeIGPyn-DYa1ts"></img>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ram Pakanayev</h1>
 

@@ -3,9 +3,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 I’m currently a 3rd Computer Science (B.Sc) student,.
-
 - 💪 A passionate fullstack developer.
+
+- 🎓 I'm a B.Sc graduate in Computer Science from H.I.T – Holon Institute of Technology.
+  
+- 🌱 I specialize in Full Stack Development with a focus on React, Next.js, TypeScript, and Node.js.
+  
+- 🔭 I'm currently working on the development team at MeComics, where we leverage generative AI to create personalized comics.
+  
+- 🚀 My experience includes integrating generative AI into web applications, notably with MeComics, a B2C SaaS platform.
 
 - 📫 How to reach me **rampakanayev@gmail.com**
 
@@ -30,9 +36,15 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
 
-## Connect with me:
+## 💼 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/ram-pakanayev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ram-pakanayev/" height="30" width="40" /></a>
+</p>
+
+
+## 🌐 My Portfolio: Official Website
+<p align="center">
+<a href="http://www.rampakanayev.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RamPakanayev/Portfolio/main/src/assets/logo.png" alt="www.rampakanayev.com" height="150" width="150" /></a>
 </p>
 <div align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api/?username=rampakanayev&layout=compact&theme=dracula" PAT_1="rampakanayev" width="500" />

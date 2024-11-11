@@ -47,7 +47,6 @@
 <a href="http://www.rampakanayev.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/RamPakanayev/Portfolio/main/src/assets/logo.png" alt="www.rampakanayev.com" height="150" width="150" /></a>
 </p>
 <div align="center">
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=rampakanayev&layout=compact&theme=dracula" PAT_1="rampakanayev" width="500" />
- !-->
+
 
 </div>

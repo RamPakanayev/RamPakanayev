@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ram Pakanayev</h1>
 <p align="center">
-  <strong>Senior AI Engineer | Specializing in Enterprise GraphRAG, Multi-Agent Systems & AWS Cloud-Native AI</strong>
+  <strong> AI Engineer | Specializing in Enterprise GraphRAG, Multi-Agent Systems & AWS Cloud-Native AI</strong>
 </p>
 
 <p align="center">
